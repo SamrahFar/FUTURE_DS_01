@@ -15,7 +15,7 @@ This project presents a Power BI dashboard for analyzing sales performance acros
 - 🛒 **Top-Selling Products** — Identify top performers by volume or revenue  
 - 🌍 **Regional Breakdown** — Sales performance by country or region  
 - 🎯 **Dynamic Filtering** — Slicer for year  
-- 🧮 **Custom KPIs** — Total Sales, Average Discount, Profit Margin, and more 
+- 🧮  **Cards** – Highlight key metrics such as Total Sales,Quantiy,etc
 
 ---
 
@@ -26,7 +26,7 @@ future_ds_01/
 ├── dashboard/
 │   └── sales_dashboard.pbix              # Power BI dashboard file
 ├── data/
-│   └── sales_data.xlsx                   # Raw or processed data source
+│   └── link to data file in excel        # Raw or processed data source
 ├── visuals/
 │   └── dashboard-preview.png             # Screenshot of final dashboard
 ├── README.md                             # Project documentation
