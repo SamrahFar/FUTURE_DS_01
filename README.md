@@ -11,8 +11,8 @@ This project presents a Power BI dashboard for analyzing sales performance acros
 
 ## 📌 Key Features
 
-- 📅 **Sales Trends** — Visualize revenue by month, quarter, or year  
-- 🛒 **Top-Selling Products** — Identify top performers by volume or revenue  
+- 📅 **Sales Trends** — Visualize quantity by month, quarter, or year  
+- 🛒 **Top-Selling Products** — Identify top performers by volume   
 - 🌍 **Regional Breakdown** — Sales performance by country or region  
 - 🎯 **Dynamic Filtering** — Slicer for year  
 - 🧮  **Cards** – Highlight key metrics such as Total Sales,Quantiy,etc
